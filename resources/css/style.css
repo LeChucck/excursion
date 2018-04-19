@@ -2,14 +2,28 @@ body{
   font-family: Verdana;
   background-color: black;
   text-align: center;
+  color: white;
 }
 
 h1{
   font-weight: normal;
   font-size: 50px;
-  color:White;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+h3{
+  font-size: 21px;
+  color: gray;
 }
 .cta{
   color: Aquamarine;
   font-size: 16px;
+}
+
+.watermark{
+  text-align: right;
+  color: gray;
 }
